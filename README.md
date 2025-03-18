@@ -1,6 +1,6 @@
 # amigo-secreto
 proyecto alura
-Este es un proyecto simple para realizar un sorteo de Amigo Secreto. Los usuarios pueden agregar los nombres de sus amigos, y luego hacer clic en un botón para realizar un sorteo aleatorio, determinando quién es el "amigo secreto" de cada persona.
+Este es un proyecto simple para realizar un sorteo de Amigo Secreto. Los usuarios pueden agregar los nombres de sus amigos, y luego hacer clic en un botón para realizar un sorteo aleatorio, determinando quién es el "amigo secreto" de cada persona. 
 Funciones
 Agregar amigos: Los usuarios pueden agregar los nombres de sus amigos a través de un campo de texto y un botón de "Añadir".
 Validación de entrada: El sistema asegura que no se agreguen nombres vacíos o solo con espacios.
